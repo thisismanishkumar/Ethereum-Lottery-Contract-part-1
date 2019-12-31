@@ -1,0 +1,1 @@
+e(source,1).contracts[':Lottery']; 
