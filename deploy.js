@@ -3,8 +3,11 @@ const Web3 = require('web3');
 const {interface, bytecode} = require('./compile');
 
 const provider =new HDWalletProvider(
-    'nurse oven cream donor desert they stamp that heart layer medal jealous',
-    'https://rinkeby.infura.io/v3/fefd36760efb4b1c9e94f04fa3f8e3f0'
+    //add here your twelve word Mnemonics 
+    '  ',
+    //add your node address connected to Ethereum network (visit infura.io to get your node address/API key)
+    // e.g.:-https://rinkeby.infura.io/v3/fefd36760efb4b1c9e94f54fa4f8e3f0
+    ' '
 );
 const web3 = new Web3(provider);
 
