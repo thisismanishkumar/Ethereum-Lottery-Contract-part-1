@@ -16,3 +16,5 @@
 + npm install --save truffle-hdwallet-provider@0.0.3
 
  For interacting with your contract see [Ethereum-Lottery-Contract-part-2](https://github.com/thisismanishkumar/Ethereum-Lottery-Contract-part-2)
+## Contributors:-
+* <a href="https://github.com/thisismanishkumar">Manish Kumar</a>
